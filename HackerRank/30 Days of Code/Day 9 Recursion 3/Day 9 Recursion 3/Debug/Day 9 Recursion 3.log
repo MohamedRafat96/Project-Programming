@@ -1,0 +1,5 @@
+﻿  Day_9_Recursion_3.c
+d:\myleacture\30 days of code\day 9 recursion 3\day 9 recursion 3\day_9_recursion_3.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Day 9 Recursion 3.vcxproj -> D:\MyLeacture\30 Days of Code\Day 9 Recursion 3\Debug\Day 9 Recursion 3.exe
+  Day 9 Recursion 3.vcxproj -> D:\MyLeacture\30 Days of Code\Day 9 Recursion 3\Debug\Day 9 Recursion 3.pdb (Partial PDB)

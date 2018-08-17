@@ -1,0 +1,5 @@
+﻿  Day_10_Binary_Numbers.c
+d:\myleacture\30 days of code\day 10 binary numbers\day 10 binary numbers\day_10_binary_numbers.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Day 10 Binary Numbers.vcxproj -> D:\MyLeacture\30 Days of Code\Day 10 Binary Numbers\Debug\Day 10 Binary Numbers.exe
+  Day 10 Binary Numbers.vcxproj -> D:\MyLeacture\30 Days of Code\Day 10 Binary Numbers\Debug\Day 10 Binary Numbers.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿  Main.c
+d:\myleacture\30 days of code\day 2 operators\day 2 operators\main.c(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\myleacture\30 days of code\day 2 operators\day 2 operators\main.c(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\myleacture\30 days of code\day 2 operators\day 2 operators\main.c(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\myleacture\30 days of code\day 2 operators\day 2 operators\main.c(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Day 2 Operators.vcxproj -> D:\MyLeacture\30 Days of Code\Day 2 Operators\Debug\Day 2 Operators.exe
+  Day 2 Operators.vcxproj -> D:\MyLeacture\30 Days of Code\Day 2 Operators\Debug\Day 2 Operators.pdb (Partial PDB)

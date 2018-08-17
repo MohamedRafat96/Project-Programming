@@ -1,0 +1,9 @@
+﻿  Day_8_Dictionaries_and_Maps.c
+d:\myleacture\30 days of code\day 8 dictionaries and maps\day 8 dictionaries and maps\day_8_dictionaries_and_maps.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+d:\myleacture\30 days of code\day 8 dictionaries and maps\day 8 dictionaries and maps\day_8_dictionaries_and_maps.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+d:\myleacture\30 days of code\day 8 dictionaries and maps\day 8 dictionaries and maps\day_8_dictionaries_and_maps.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Day 8 Dictionaries and Maps.vcxproj -> D:\MyLeacture\30 Days of Code\Day 8 Dictionaries and Maps\Debug\Day 8 Dictionaries and Maps.exe
+  Day 8 Dictionaries and Maps.vcxproj -> D:\MyLeacture\30 Days of Code\Day 8 Dictionaries and Maps\Debug\Day 8 Dictionaries and Maps.pdb (Partial PDB)

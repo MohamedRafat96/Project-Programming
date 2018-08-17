@@ -1,0 +1,5 @@
+﻿  Main.c
+d:\myleacture\30 days of code\day 0 hello, world\day 0 hello, world\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Day 0 Hello, World.vcxproj -> D:\MyLeacture\30 Days of Code\Day 0 Hello, World\Debug\Day 0 Hello, World.exe
+  Day 0 Hello, World.vcxproj -> D:\MyLeacture\30 Days of Code\Day 0 Hello, World\Debug\Day 0 Hello, World.pdb (Partial PDB)
