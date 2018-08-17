@@ -1,0 +1,5 @@
+﻿  Day_11_2D_Arrays.c
+d:\leactures\hackerrank\30 days of code\day 11 2d arrays\day 11 2d arrays\day_11_2d_arrays.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Day 11 2D Arrays.vcxproj -> D:\Leactures\Hackerrank\30 Days of Code\Day 11 2D Arrays\Debug\Day 11 2D Arrays.exe
+  Day 11 2D Arrays.vcxproj -> D:\Leactures\Hackerrank\30 Days of Code\Day 11 2D Arrays\Debug\Day 11 2D Arrays.pdb (Partial PDB)
